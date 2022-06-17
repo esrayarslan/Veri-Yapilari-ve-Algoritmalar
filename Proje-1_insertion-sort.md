@@ -64,4 +64,4 @@ veri setinin ortasında olduğu için average case kapsamına girer.
  |------|-|-|-|-|-|-|-|- |-|
  
  |4.Adım|3|5|7|8|2|9|4|15|6|      
- |------|-|-|-|-|-|-|-|- |-|
+ |------|-|-|-|-|-|-|-|- |-|      
